@@ -25,13 +25,11 @@
 
 ### Backend
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white).
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -54,16 +52,16 @@
 Pivot est une plateforme de commerce en ligne permettant aux ressourceries de vendre leurs produits. Le projet est construit avec Laravel 10 et utilise les dernières pratiques de développement.
 
 **Technologies clés :**
-- 🔧 Laravel pour une API robuste et sécurisée
-- ⚛️ React avec TypeScript pour une interface utilisateur réactive
+- 🔧 Laravel pour un backend robuste et sécurisée
+- ⚛️ React pour une interface utilisateur réactive
 - 🎨 TailwindCSS pour un design moderne et responsive
-- 🔄 CI/CD avec GitHub Actions
+- 🔄 CI/CD avec Coolify
 
 ## 📊 Statistiques GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GuillaumeLecomte1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GuillaumeLecomte1&theme=tokyonight)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeLecomte1&theme=tokyonight)" alt="GitHub Streak" />
 </div>
 
 <div align="center">
