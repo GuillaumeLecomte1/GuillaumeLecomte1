@@ -61,7 +61,8 @@ Pivot est une plateforme de commerce en ligne permettant aux ressourceries de ve
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GuillaumeLecomte1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeLecomte1&theme=tokyonight)" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeLecomte1&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=GuillaumeLecomte1&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
