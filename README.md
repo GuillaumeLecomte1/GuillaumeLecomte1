@@ -37,9 +37,9 @@
 
 ## 📈 **Statistiques GitHub**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ton-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuillaumeLecomte1&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeLecomte1&layout=compact&theme=radical)
 
 ---
 
@@ -48,13 +48,6 @@
 💬 **Discord** : Ykonox
 🔗 **LinkedIn** : [Guillaume Lecomte](www.linkedin.com/in/guillaumelecomte-pro)  
 📧 **Email** : [guillaume.lecomte.pro@gmail.com](mailto:guillaume.lecomte.pro@gmail.com)
-
----
-
-## 💡 **Citation Inspirante**
-
-> "Le code, c'est comme la poésie. Ça doit être beau, efficace et compréhensible."  
-> – [Ton Nom ou une référence]
 
 ---
 
