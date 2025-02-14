@@ -51,7 +51,7 @@
 </div>
 
 ### 🌟 Pivot
-Une application web innovante qui [description courte]. Développée avec Laravel et React, elle met en œuvre les meilleures pratiques de développement moderne.
+Pivot est une plateforme de commerce en ligne permettant aux ressourceries de vendre leurs produits. Le projet est construit avec Laravel 10 et utilise les dernières pratiques de développement.
 
 **Technologies clés :**
 - 🔧 Laravel pour une API robuste et sécurisée
@@ -63,7 +63,7 @@ Une application web innovante qui [description courte]. Développée avec Larave
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GuillaumeLecomte1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeLecomte1&theme=tokyonight" alt="GitHub Streak" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GuillaumeLecomte1&theme=tokyonight)](https://git.io/streak-stats)
 </div>
 
 <div align="center">
