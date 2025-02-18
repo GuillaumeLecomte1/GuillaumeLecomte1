@@ -77,6 +77,7 @@ Pivot est une plateforme de commerce en ligne permettant aux ressourceries de ve
 
 <div align="center">
   
-  ### 💭 "Le code est comme l'humour. Quand vous devez l'expliquer, c'est mauvais." – Cory House
-
+ ### 💭 "Tous ces moments se perdront dans le temps, comme des larmes sous la pluie." – Roy Batty (1982)
+ ### 🤖 "Le futur n'est pas écrit. Il est codé." - Généré par IA.
+ 
 </div>
