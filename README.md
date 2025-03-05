@@ -55,7 +55,7 @@ Pivot est une plateforme de commerce en ligne permettant aux ressourceries de ve
 - 🔧 Laravel pour un backend robuste et sécurisée
 - ⚛️ React pour une interface utilisateur réactive
 - 🎨 TailwindCSS pour un design moderne et responsive
-- 🔄 CI/CD avec Coolify
+- 🔄 Mise en production sur VPS
 
 ## 📊 Statistiques GitHub
 
