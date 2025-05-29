@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=👋+Salut%2C+je+suis+Guillaume+LECOMTE+!" alt="Texte de bienvenue" />
+<!--   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=👋+Salut%2C+je+suis+Guillaume+LECOMTE+!" alt="Texte de bienvenue" /> -->
+Salut à tous !
 </div>
 
 <h3 align="center">🚀 Développeur Full-Stack Passionné | Architecte Solutions Web</h3>
