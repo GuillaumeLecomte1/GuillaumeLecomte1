@@ -49,7 +49,7 @@ Salut à tous !
   </a>
 </div>
 
-### 🌟 Pivot
+### 🌟 <a href="pivot.guillaumt-lcte.fr">Pivot</a>
 Pivot est une plateforme de commerce en ligne permettant aux ressourceries de vendre leurs produits. Le projet est construit avec Laravel 10 et utilise les dernières pratiques de développement.
 
 **Technologies clés :**
