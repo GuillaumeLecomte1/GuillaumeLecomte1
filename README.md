@@ -45,7 +45,7 @@
 
 <div align="center">
   <a href="LIEN_GITHUB_PIVOT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuillaumeLecomte1&repo=MDSU-PIVOT&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuillaumeLecomte1&repo=Pivot&theme=tokyonight" />
   </a>
 </div>
 
