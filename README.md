@@ -1,31 +1,33 @@
- <!--- Trouve une alternative pour le salut a tous animé TOTO UPDATE COMMIT Je suis toujour commit fridly vous avez vu ça les RH :) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=👋+Salut%2C+je+suis+Guillaume+LECOMTE+!" alt="Salut à tous !" />
+
+# Guillaume Lecomte
+### Full Stack Engineer
+
+Building robust web applications with a strong focus on business logic, performance and maintainability.
+
+[LinkedIn](https://www.linkedin.com/in/guillaumelecomte-pro) • [Portfolio](https://guillaume-lcte.fr) • [Email](mailto:guillaume.lecomte.pro@gmail.com)
+
 </div>
 
-<h3 align="center">🚀 Développeur Full-Stack Passionné | Architecte Solutions Web</h3>
+---
 
-<p align="center">
-  <a href="mailto:guillaume.lecomte.pro@gmail.com"><img src="https://img.shields.io/badge/Email-guillaume.lecomte.pro%40gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/guillaumelecomte-pro"><img src="https://img.shields.io/badge/LinkedIn-Guillaume_Lecomte-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://discord.com/users/Ykonox"><img src="https://img.shields.io/badge/Discord-Ykonox-7289DA?style=flat-square&logo=discord"></a>
-</p>
+## About
 
-## 🎯 À Propos
+Full Stack Engineer with 3+ years of experience designing and modernizing business-critical web applications.
 
-> Développeur Full-Stack avec une expertise approfondie en architectures modernes et scalables. Passionné par la création de solutions innovantes qui transforment les idées en réalité.
+I work across the entire development lifecycle — from understanding business needs to building, deploying and maintaining reliable systems.
 
-- 🎓 Master en Informatique
-- 💡 Spécialisé en développement Laravel & React
-- 🌱 En apprentissage constant des dernières technologies
-- 🤝 Ouvert aux collaborations sur des projets innovants
+Currently focused on applications where **business logic, performance and reliability** are key.
 
-## 💻 Stack Technique
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### Backend
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white).
 
@@ -41,25 +43,34 @@
 
 </div>
 
-## 🚀 Projets Phares
+---
 
-<div align="center">
-  <a href="LIEN_GITHUB_PIVOT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuillaumeLecomte1&repo=Pivot&theme=tokyonight" />
-  </a>
-</div>
+## Selected Project
 
-### 🌟 <a href="pivot.guillaumt-lcte.fr">Pivot</a>
-Pivot est une plateforme de commerce en ligne permettant aux ressourceries de vendre leurs produits. Le projet est construit avec Laravel 10 et utilise les dernières pratiques de développement.
+### Pivot — E-commerce platform for reuse organizations
 
-**Technologies clés :**
-- 🔧 Laravel pour un backend robuste et sécurisée
-- ⚛️ React pour une interface utilisateur réactive
-- 🎨 TailwindCSS pour un design moderne et responsive
-- 🔄 Mise en production sur VPS
+Platform enabling local reuse organizations to sell products online.
 
-## 📊 Statistiques GitHub
+- Laravel + React architecture  
+- Product, user and cart management  
+- REST API  
+- Dockerized deployment on VPS  
 
+→ Focus: delivering a simple and scalable solution for real-world use cases  
+
+---
+
+## Experience
+
+**Full Stack Engineer — Dioqa**  
+Design and development of complex business applications with strong functional constraints.  
+Focus on performance, maintainability and CI/CD pipelines.
+
+**Full Stack Developer — LEO & Associés**  
+Modernization of an internal business application.  
+Introduction of Agile and DevOps practices to improve development workflows.
+
+---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GuillaumeLecomte1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeLecomte1&theme=tokyonight" alt="GitHub Streak" />
@@ -77,8 +88,7 @@ Pivot est une plateforme de commerce en ligne permettant aux ressourceries de ve
 </div>
 
 <div align="center">
-  
- ### 💭 "Tous ces moments se perdront dans le temps, comme des larmes sous la pluie." – Roy Batty (1982)
- ### 🤖 "Le futur n'est pas écrit. Il est codé." - Généré par IA.
- 
+
+*"All those moments will be lost in time, like tears in rain."*
+
 </div>
