@@ -15,7 +15,7 @@ Building robust web applications with a strong focus on business logic, performa
 
 Full Stack Engineer with 3+ years of experience designing and modernizing business-critical web applications.
 
-I work across the entire development lifecycle — from understanding business needs to building, deploying and maintaining reliable systems.
+I work across the entire development lifecycle from understanding business needs to building, deploying and maintaining reliable systems.
 
 Currently focused on applications where **business logic, performance and reliability** are key.
 
@@ -47,7 +47,7 @@ Currently focused on applications where **business logic, performance and reliab
 
 ## Selected Project
 
-### Pivot — E-commerce platform for reuse organizations
+### Pivot - E-commerce platform for reuse organizations
 
 Platform enabling local reuse organizations to sell products online.
 
@@ -62,11 +62,11 @@ Platform enabling local reuse organizations to sell products online.
 
 ## Experience
 
-**Full Stack Engineer — Dioqa**  
+**Full Stack Engineer - Dioqa**  
 Design and development of complex business applications with strong functional constraints.  
 Focus on performance, maintainability and CI/CD pipelines.
 
-**Full Stack Developer — LEO & Associés**  
+**Full Stack Developer - LEO & Associés**  
 Modernization of an internal business application.  
 Introduction of Agile and DevOps practices to improve development workflows.
 
