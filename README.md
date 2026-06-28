@@ -1,12 +1,12 @@
 <div align="center">
 
 # Guillaume Lecomte
-### Full Stack Engineer
+### Full Stack Engineer 
+[![GitHub Commits Badge](https://ghcommits.com/api/badge/GuillaumeLecomte1.svg)](https://ghcommits.com/u/GuillaumeLecomte1)
 
 Building robust web applications with a strong focus on business logic, performance and maintainability.
 
 [LinkedIn](https://www.linkedin.com/in/guillaumelecomte-pro) • [Portfolio](https://guillaume-lcte.fr) • [Email](mailto:guillaume.lecomte.pro@gmail.com)
-
 </div>
 
 ---
