@@ -70,6 +70,11 @@ Focus on performance, maintainability and CI/CD pipelines.
 Modernization of an internal business application.  
 Introduction of Agile and DevOps practices to improve development workflows.
 
+**Full Stack Developer Intern - Factoryz**  
+Contributed to the development and improvement of web products.  
+Built reusable components, resolved incidents and enhanced accessibility
+
+
 ---
 <div align="center">
   <!--- <img src="https://github-readme-stats.vercel.app/api?username=GuillaumeLecomte1&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> -->
